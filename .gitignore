@@ -1,0 +1,15 @@
+# Archivos sensibles
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
